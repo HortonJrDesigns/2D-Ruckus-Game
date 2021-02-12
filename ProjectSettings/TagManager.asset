@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Coin
+  - GameMaster
+  - GasCan
+  - Timer
+  - Ground
+  - Flags
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bike
+  - Rider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1755898963
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UnderGlow
+    uniqueID: 288577425
+    locked: 0
+  - name: Bike
+    uniqueID: 1820856629
+    locked: 0
+  - name: Foreground
+    uniqueID: 2694462047
+    locked: 0
+  - name: Snow
+    uniqueID: 4229153023
+    locked: 0
